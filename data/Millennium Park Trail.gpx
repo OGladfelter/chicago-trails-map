@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="AllTrails.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name><![CDATA[Millennium Park Trail]]></name>
+    <desc><![CDATA[]]></desc>
+    <link href="http://www.alltrails.com">
+      <text>AllTrails, LLC</text>
+    </link>
+    <bounds minlat="41.88093" minlon="-87.62397" maxlat="41.8839" maxlon="-87.62133"/>
+  </metadata>
+  <wpt lat="41.8838842" lon="-87.6237774">
+    <name><![CDATA[Randolph Street & Michigan Avenue ]]></name>
+    <desc><![CDATA[Start your tour of the park at this northwest corner, home to the Millennium Park Monument, and walk southeast toward the big shiny sculpture. (Entering the park at this corner is particularly important on warm summer days. It's the only way to ensure your kids won't see the Crown Fountain, the city's favorite splashing pool, until the end of the tour when you might all want to get wet and cool off.)]]></desc>
+  </wpt>
+  <wpt lat="41.8826821" lon="-87.6233053">
+    <name><![CDATA[The Bean]]></name>
+    <desc><![CDATA[This sculpture by British artist Anish Kapoor is officially named "Cloud Gate," but affectionately known by locals as "The Bean." It was forged of 168 stainless-steel plates and weighs 110 tons. 
+
+But your kids won't care about that. They'll just want to walk around and under this giant structure to see their reflections change.
+ 
+Get out the camera and ask someone nearby to snap a picture of the family reflected in the sculpture with the city's majestic skyline in the background.]]></desc>
+  </wpt>
+  <wpt lat="41.8825303" lon="-87.6219079">
+    <name><![CDATA[Jay Pritzker Pavilion]]></name>
+    <desc><![CDATA[As you walk from the Bean east to this rocking outdoor concert venue, look north along the Chase Promenade. During summer months the park offers free family programming daily, including crafts and children's perfomers, all of which is housed in a tent somewhere along the promenade.
+
+The Jay Pritzker Pavilion is a Frank Gehry-designed Chicago architectural masterpiece. A series of early evening concerts-all free-are scheduled each summer. Grab one of the 4,000 seats or plop down on the Great Lawn to listen to a concert (it could be anything from classical to hip-hop) while the kids run and play. 
+
+If you need a bathroom stop, use the ones underneath the pavilion, some of the newest and nicest public bathrooms in Chicago.]]></desc>
+  </wpt>
+  <wpt lat="41.8819951" lon="-87.6212534">
+    <name><![CDATA[BP Bridge]]></name>
+    <desc><![CDATA[Continue walking east to the winding BP Bridge, also designed by Frank Gehry. This gently sloping 925-foot boardwalk bridge crosses busy Columbus Drive and connects Millennium Park to Daley Bicentennial Plaza. Stop a minute to look back and admire the great architectural wonders that line Michigan Avenue. Warning: Be careful what the kids touch on hot summer days. Those 9,000 sheets of shiny stainless steel can get warm.]]></desc>
+  </wpt>
+  <wpt lat="41.8812562" lon="-87.6217604">
+    <name><![CDATA[The Lurie Garden]]></name>
+    <desc><![CDATA[This 2.5-acre garden celebrates Chicago's motto, "Urbs in Horto," Latin for "City in a Garden." Chicago's last Mayor Daley-Richard M., who ruled the city for 22 years before his retirement in 2011-embraced the motto. Known as the "tree hugger mayor," Daley is credited with building flower boxes, planting trees and promoting green construction throughout the city. 
+
+The two sides of this garden represent the two sides of Chicago-the "dark" side represents Chicago's past and the "light" side represents its vibrant present and future.
+
+Next, walk under the Nichols Bridgeway, which connects Millennium Park to the new Impressionist wing of the famed Art Institute of Chicago.]]></desc>
+  </wpt>
+  <wpt lat="41.881432" lon="-87.623705">
+    <name><![CDATA[The Crown Fountain]]></name>
+    <desc><![CDATA[Finally, it's time for the Millennium Park coup de grace: the Crown Fountain. The fountain is bordered on the north and south ends by 50-foot-tall glass towers that display images of the faces of Chicagoans. 
+
+From mid-spring through mid-fall each year, a spray of water comes from the mouths of the faces on the tower, forming a shallow reflecting pool along the 200 feet of black granite that spans the space between the towers. Kids can't resist running and splashing there. On a hot summer day, don't be surprised to find the kids are joined by business men and women who roll up their pant legs and wade in during their lunch breaks. 
+
+In winter there's no water, but you can continue north to skate at the McCormick Tribune Plaza and Ice Rink.]]></desc>
+  </wpt>
+  <wpt lat="41.8826901" lon="-87.6237747">
+    <name><![CDATA[McCormick Tribune Plaza and Ice Rink]]></name>
+    <desc><![CDATA[During the winter, this plaza is turned into a free ice skating rink (skate rentals are available but, sadly, rentals are not free). During summer months, the space is used as outdoor seating for the Park Grill, a white tablecloth restaurant. It has a kid's menu, but you won't want to take the tykes in there if they've just been splashing in the Crown Fountain. The Park Grill offers a carryout menu so patrons can buy a sandwich and head over to eat on the Great Lawn of the Pritzker Pavilion. If you're just looking for a snack, look for a cart vendor around the park selling hot dogs, hot pretzels and other simpler fare.]]></desc>
+  </wpt>
+  <trk>
+    <name><![CDATA[Millennium Park Trail]]></name>
+    <src>AllTrails</src>
+    <trkseg>
+      <trkpt lat="41.8839" lon="-87.62397">
+        <ele>179.11</ele>
+      </trkpt>
+      <trkpt lat="41.8839" lon="-87.62396">
+        <ele>179.09</ele>
+      </trkpt>
+      <trkpt lat="41.88388" lon="-87.62394">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88388" lon="-87.62385">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88387" lon="-87.62378">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88389" lon="-87.62369">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.8836" lon="-87.62368">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88354" lon="-87.62367">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88347" lon="-87.62368">
+        <ele>179.39</ele>
+      </trkpt>
+      <trkpt lat="41.88344" lon="-87.62374">
+        <ele>179.91</ele>
+      </trkpt>
+      <trkpt lat="41.88338" lon="-87.62376">
+        <ele>180.3</ele>
+      </trkpt>
+      <trkpt lat="41.88341" lon="-87.62378">
+        <ele>180.14</ele>
+      </trkpt>
+      <trkpt lat="41.88329" lon="-87.62375">
+        <ele>180.73</ele>
+      </trkpt>
+      <trkpt lat="41.88328" lon="-87.62329">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88289" lon="-87.62324">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88269" lon="-87.62284">
+        <ele>177.0</ele>
+      </trkpt>
+      <trkpt lat="41.88271" lon="-87.62241">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88257" lon="-87.622">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88241" lon="-87.62175">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88193" lon="-87.62133">
+        <ele>178.69</ele>
+      </trkpt>
+      <trkpt lat="41.88119" lon="-87.6218">
+        <ele>181.3</ele>
+      </trkpt>
+      <trkpt lat="41.88112" lon="-87.62207">
+        <ele>178.58</ele>
+      </trkpt>
+      <trkpt lat="41.8811" lon="-87.62227">
+        <ele>177.0</ele>
+      </trkpt>
+      <trkpt lat="41.88114" lon="-87.62216">
+        <ele>177.67</ele>
+      </trkpt>
+      <trkpt lat="41.88112" lon="-87.62213">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88108" lon="-87.62236">
+        <ele>177.16</ele>
+      </trkpt>
+      <trkpt lat="41.88113" lon="-87.62235">
+        <ele>177.0</ele>
+      </trkpt>
+      <trkpt lat="41.88098" lon="-87.6226">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88096" lon="-87.62257">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88095" lon="-87.62259">
+        <ele>178.0</ele>
+      </trkpt>
+      <trkpt lat="41.88095" lon="-87.62285">
+        <ele>177.0</ele>
+      </trkpt>
+      <trkpt lat="41.88094" lon="-87.62329">
+        <ele>178.53</ele>
+      </trkpt>
+      <trkpt lat="41.88094" lon="-87.62367">
+        <ele>182.0</ele>
+      </trkpt>
+      <trkpt lat="41.88093" lon="-87.62373">
+        <ele>182.28</ele>
+      </trkpt>
+      <trkpt lat="41.88153" lon="-87.62371">
+        <ele>182.0</ele>
+      </trkpt>
+      <trkpt lat="41.8821" lon="-87.62378">
+        <ele>181.0</ele>
+      </trkpt>
+      <trkpt lat="41.8826" lon="-87.62382">
+        <ele>181.26</ele>
+      </trkpt>
+      <trkpt lat="41.88305" lon="-87.62376">
+        <ele>181.0</ele>
+      </trkpt>
+      <trkpt lat="41.88325" lon="-87.62373">
+        <ele>180.93</ele>
+      </trkpt>
+      <trkpt lat="41.88317" lon="-87.62374">
+        <ele>181.3</ele>
+      </trkpt>
+      <trkpt lat="41.88315" lon="-87.62376">
+        <ele>181.6</ele>
+      </trkpt>
+      <trkpt lat="41.88331" lon="-87.62378">
+        <ele>180.87</ele>
+      </trkpt>
+      <trkpt lat="41.88345" lon="-87.62379">
+        <ele>179.98</ele>
+      </trkpt>
+      <trkpt lat="41.88343" lon="-87.62376">
+        <ele>179.98</ele>
+      </trkpt>
+      <trkpt lat="41.88341" lon="-87.62378">
+        <ele>180.14</ele>
+      </trkpt>
+      <trkpt lat="41.88343" lon="-87.62386">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.88347" lon="-87.62389">
+        <ele>180.01</ele>
+      </trkpt>
+      <trkpt lat="41.8838" lon="-87.62391">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.8839" lon="-87.62397">
+        <ele>179.11</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

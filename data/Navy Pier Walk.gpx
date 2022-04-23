@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="AllTrails.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name><![CDATA[Navy Pier Walk]]></name>
+    <desc><![CDATA[]]></desc>
+    <link href="http://www.alltrails.com">
+      <text>AllTrails, LLC</text>
+    </link>
+    <bounds minlat="41.88956" minlon="-87.61019" maxlat="41.89246" maxlon="-87.59972"/>
+  </metadata>
+  <wpt lat="41.8915119" lon="-87.6095724">
+    <name><![CDATA[Navy Pier Family Pavilion]]></name>
+    <desc><![CDATA[Here you'll find the Chicago Children's Museum, one of the best children's museums in the country, and the Navy Pier IMAX theater. 
+
+There's also a food court featuring chain restaurants such as McDonald's and Bubba Gump Shrimp Co. as well as a local favorite, the upscale sports-themed Harry Caray's Tavern, founded by the legendary Chicago baseball announcer.
+
+Look for the stage where the silly pirate crew, jugglers, magicians and other acts entertain for free every half-hour.]]></desc>
+  </wpt>
+  <wpt lat="41.8915758" lon="-87.6090252">
+    <name><![CDATA[Crystal Garden]]></name>
+    <desc><![CDATA[This is a gorgeous, quiet place out of the madding crowds to sit and think.]]></desc>
+  </wpt>
+  <wpt lat="41.8915918" lon="-87.6078022">
+    <name><![CDATA[Pier Park]]></name>
+    <desc><![CDATA[Home to the seasonal Pepsi Skyline Stage, an outdoor theater under a tent, and the most recent additions to Navy Pier: a mini amusement park with traditional rides, such as a Ferris wheel and carousel, both upsized to serve the City of Big Shoulders.]]></desc>
+  </wpt>
+  <wpt lat="41.8917515" lon="-87.6035482">
+    <name><![CDATA[Festival Hall and Smith Museum of Stained Glass]]></name>
+    <desc><![CDATA[The first floor of Festival Hall is home to a treasure of a free museum: the Smith Museum of Stained Glass Windows. 
+
+This 800-foot-long museum is tucked along the sides of the walkway. It is a permanent exhibit of 150 stained glass windows, many of them taken from Chicago-area houses or churches, including windows created by Louis Comfort Tiffany and others created by Chicago artist Ed Paschke. The collection ranges from iconic religious windows to contemporary images extolling the likes of Chicago Bulls basketball great Micheal Jordan. The history of each has been researched and is explained in accompanying text. 
+
+If you fancy a fine-dining, white-tablecloth experience, head to Riva's for dinner.]]></desc>
+  </wpt>
+  <wpt lat="41.89186" lon="-87.59938">
+    <name><![CDATA[Grand Ballroom]]></name>
+    <desc><![CDATA[This is the eastern most point of the Pier. The Grand Ballroom is often the site of expos and other convention-type events, but peek inside if you can. The structure was built in 1916 and boasts a magnificent 80-foot domed ceiling. 
+Venture outside for an unparalleled view of the city's skyline while you brave the stiff winds off of Lake Michigan. Unless it's a hot day, chances are you'll want a jacket.]]></desc>
+  </wpt>
+  <wpt lat="41.8911925" lon="-87.6029205">
+    <name><![CDATA[Take a boat ride on Lake Michigan]]></name>
+    <desc><![CDATA[You're on Lake Michigan, after all. If you happen to be there during the warmer months, take a ride on the water. 
+
+The south side of Navy Pier is lined with boats, so pick the one that matches your water personality and family budget-the 148-foot Tall Ship Windy, the flashy speedboat Seadog, sightseeing cruises, dinner cruises or private charters. 
+
+If you would rather get on the water for a little less money, jump on a water taxi for a ride to other major Chicago tourist spots, including the Museum Campus, Buckingham Fountain and Willis Tower (formerly called Sears Tower and home to the Ledge, a glass box where brave visitors can walk out and look straight down 1,353 feet to the ground below).]]></desc>
+  </wpt>
+  <trk>
+    <name><![CDATA[Navy Pier Walk]]></name>
+    <src>AllTrails</src>
+    <trkseg>
+      <trkpt lat="41.88956" lon="-87.60979">
+        <ele>178.07</ele>
+      </trkpt>
+      <trkpt lat="41.88968" lon="-87.60955">
+        <ele>177.14</ele>
+      </trkpt>
+      <trkpt lat="41.88979" lon="-87.60958">
+        <ele>177.46</ele>
+      </trkpt>
+      <trkpt lat="41.89052" lon="-87.60961">
+        <ele>178.58</ele>
+      </trkpt>
+      <trkpt lat="41.89103" lon="-87.60959">
+        <ele>178.2</ele>
+      </trkpt>
+      <trkpt lat="41.89103" lon="-87.60973">
+        <ele>179.92</ele>
+      </trkpt>
+      <trkpt lat="41.89111" lon="-87.60976">
+        <ele>179.59</ele>
+      </trkpt>
+      <trkpt lat="41.89117" lon="-87.60981">
+        <ele>179.02</ele>
+      </trkpt>
+      <trkpt lat="41.89117" lon="-87.60992">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.89118" lon="-87.60999">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.89142" lon="-87.61004">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.8916" lon="-87.61006">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89176" lon="-87.61007">
+        <ele>179.01</ele>
+      </trkpt>
+      <trkpt lat="41.89186" lon="-87.61007">
+        <ele>179.78</ele>
+      </trkpt>
+      <trkpt lat="41.89191" lon="-87.61009">
+        <ele>179.99</ele>
+      </trkpt>
+      <trkpt lat="41.89197" lon="-87.61013">
+        <ele>179.84</ele>
+      </trkpt>
+      <trkpt lat="41.89203" lon="-87.61015">
+        <ele>179.65</ele>
+      </trkpt>
+      <trkpt lat="41.89212" lon="-87.61016">
+        <ele>179.08</ele>
+      </trkpt>
+      <trkpt lat="41.89218" lon="-87.61019">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89219" lon="-87.61004">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89229" lon="-87.60088">
+        <ele>175.8</ele>
+      </trkpt>
+      <trkpt lat="41.89234" lon="-87.60087">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89239" lon="-87.6007">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89227" lon="-87.60064">
+        <ele>176.94</ele>
+      </trkpt>
+      <trkpt lat="41.89223" lon="-87.6006">
+        <ele>178.66</ele>
+      </trkpt>
+      <trkpt lat="41.89218" lon="-87.60045">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89218" lon="-87.59972">
+        <ele>179.46</ele>
+      </trkpt>
+      <trkpt lat="41.89218" lon="-87.60045">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89223" lon="-87.6006">
+        <ele>178.66</ele>
+      </trkpt>
+      <trkpt lat="41.89246" lon="-87.60063">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89239" lon="-87.60059">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89242" lon="-87.60064">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89242" lon="-87.60079">
+        <ele>175.0</ele>
+      </trkpt>
+      <trkpt lat="41.89226" lon="-87.60995">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89225" lon="-87.61007">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89223" lon="-87.61017">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89216" lon="-87.61017">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89208" lon="-87.61017">
+        <ele>179.45</ele>
+      </trkpt>
+      <trkpt lat="41.89203" lon="-87.61017">
+        <ele>179.85</ele>
+      </trkpt>
+      <trkpt lat="41.89198" lon="-87.61014">
+        <ele>179.81</ele>
+      </trkpt>
+      <trkpt lat="41.8919" lon="-87.61011">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.89175" lon="-87.61009">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89158" lon="-87.61008">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.89126" lon="-87.61007">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.89121" lon="-87.61005">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.89121" lon="-87.60995">
+        <ele>180.0</ele>
+      </trkpt>
+      <trkpt lat="41.8912" lon="-87.60985">
+        <ele>179.38</ele>
+      </trkpt>
+      <trkpt lat="41.89111" lon="-87.6098">
+        <ele>179.16</ele>
+      </trkpt>
+      <trkpt lat="41.89107" lon="-87.60968">
+        <ele>179.54</ele>
+      </trkpt>
+      <trkpt lat="41.89056" lon="-87.60964">
+        <ele>179.0</ele>
+      </trkpt>
+      <trkpt lat="41.88972" lon="-87.6096">
+        <ele>177.68</ele>
+      </trkpt>
+      <trkpt lat="41.88968" lon="-87.60955">
+        <ele>177.14</ele>
+      </trkpt>
+      <trkpt lat="41.88956" lon="-87.60979">
+        <ele>178.07</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
