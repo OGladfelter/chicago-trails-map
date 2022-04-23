@@ -381,7 +381,7 @@ input[type=color]{
 }
 .modal-content-3 h1 {
     color: whitesmoke;
-    margin: 10px auto 10px auto;
+    margin: 0.5px auto 0.5px auto;
     font-weight: normal;
 }
 .printModal * {

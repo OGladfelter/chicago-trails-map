@@ -50,47 +50,22 @@ function drawHeatmap() {
             }
         })
         .on('loaded', function(e) {
-            map.fitBounds(e.target.getBounds());
+            // hover over any path to highlight it
+            d3.selectAll("path").on("mouseover", function() {
+                d3.select(this).style('stroke', 'red');
+                d3.select(this).style('opacity', 1);
+                d3.select(this).raise();
+            })
+            .on("mouseout", function() {
+                d3.select(this).style('stroke', this.getAttribute("lineColor") ? this.getAttribute("lineColor") : document.getElementById("lineColor").value);
+                d3.select(this).style('opacity', $('#alphaSlider').slider("option", "value"));
+            });
         })
         .addTo(map)
         .bindTooltip(gpx, {sticky: true, className: 'tooltipClass'});
     });
 
-    map.setView([41.895168, -87.752793], 13);
-        
-  
-
-        // paths[data[i].id] = L.polyline(
-        //     coordinates,
-        //     {
-        //         color: 'rgb(0,224,224)',
-        //         weight: 2,
-        //         opacity: 1,
-        //         lineJoin: 'round',
-        //         name: data[i].name,
-        //         activity: data[i].type,
-        //         id: data[i].id
-        //     },
-        // )
-        // .on('click', function() { 
-        //     if (Number(this.options.id) > 1000) { // don't activate on demo or manual file upload (assuming no one manually uploads 1k+ files)
-        //         var url = "https://www.strava.com/activities/" + this.options.id;
-        //         window.open(url, '_blank').focus();
-        //     }
-        // })
-        // .addTo(map)
-        // .bindTooltip(data[i].name + "<br>" + data[i].miles + " miles<br>" + data[i].start_date_local.split("T")[0], {sticky: true, className: 'myCSSClass'});
-
-    // hover over any path to highlight it
-    d3.selectAll("path").on("mouseover", function() {
-        d3.select(this).style('stroke', 'yellow');
-        d3.select(this).style('opacity', 1);
-        d3.select(this).raise();
-    })
-    .on("mouseout", function() {
-        d3.select(this).style('stroke', this.getAttribute("lineColor") ? this.getAttribute("lineColor") : document.getElementById("lineColor").value);
-        d3.select(this).style('opacity', $('#alphaSlider').slider("option", "value"));
-    });
+    map.setView([41.895168, -87.752793], 9);
 
     // customization menu item - switch tooltip to show miles vs km
     // document.getElementById("metric").addEventListener("click", function() { 
@@ -134,5 +109,73 @@ function drawHeatmap() {
         document.getElementById("backgroundColorPicker").style.display = "none";
     });
 }
+
+// click divs to show / hide menus
+document.getElementById("menuHeaderContainer3").addEventListener("click", function() {
+    if (document.getElementById("customizeMenuTable").style.display == "table"){
+        document.getElementById("customizeMenuTable").style.display = "none";
+        document.getElementById("menuButton3").innerHTML = "+";
+    }
+    else{
+       document.getElementById("customizeMenuTable").style.display = "table";
+       document.getElementById("menuButton3").innerHTML = "-";
+    }
+});
+
+
+// customization menu item - background color
+document.getElementById("backgroundColor").addEventListener("input", function() { 
+    document.getElementById("map").style.background = this.value;
+    document.getElementsByTagName("body")[0].style.backgroundColor = this.value;
+});
+
+// customization menu item - line color
+document.getElementById("lineColor").addEventListener("input", function() { 
+    var allColor = this.value;
+    d3.selectAll("path").style("stroke",allColor); // update frontend color
+    var lines = d3.selectAll("path");
+    lines._groups[0].forEach(function(d){ // update lineColor attribute for proper highlighting and returning to color
+        d.setAttribute("lineColor",allColor);
+    });
+});
+
+// customization menu - line thickness
+$(function() {
+    $("#thicknessSlider").slider({
+        range: false,
+        min: 1,
+        max: 4,
+        step: 0.5,
+        value: 3,
+        slide: function(e, ui) {
+            d3.selectAll("path").style("stroke-width",ui.value+"px")
+        }
+    });
+});
+
+// customization menu - line opacity
+$(function() {
+    $("#alphaSlider").slider({
+        range: false,
+        min: 0.3,
+        max: 1,
+        step: 0.1,
+        value: 1,
+        slide: function(e, ui) {
+            d3.selectAll("path").style("opacity",ui.value);
+        }
+    });
+});
+
+document.getElementById("printModal").addEventListener("click", function(){
+    document.getElementById("printModal").style.display = 'none';
+});
+// for some fun flair...
+document.getElementById("normalResolutionButton").addEventListener("mouseenter", function(){
+    document.getElementById("downloadButton1").classList.toggle('rotated');
+});
+document.getElementById("highResolutionButton").addEventListener("mouseenter", function(){
+    document.getElementById("downloadButton2").classList.toggle('rotated');
+});
 
 drawHeatmap();
